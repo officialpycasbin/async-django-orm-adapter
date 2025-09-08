@@ -1,0 +1,3 @@
+[run]
+include = async_casbin_adapter/*
+omit = *migrations*, *tests*
